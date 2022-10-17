@@ -6,7 +6,7 @@ close all;
 
 
 
-% Your should modify parameters in "Start.m"
+% You should modify parameters in "Start.m"
 %   param.TrainNum: your training number 
 %   param.nSamples: the sample number of each class
 %   param.nClass:   the class number
