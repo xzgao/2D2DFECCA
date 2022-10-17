@@ -5,7 +5,7 @@ clc;
 close all;
 
 
-% Your can first load your data at "DataProcess.m", then runing the following code.
+% You can first load your data at "DataProcess.m", then runing the following code.
 % Then modify parameters in "Start.m"
 %   param.Height:   the height of your imput image
 %   param.Width:    the width  of ...
